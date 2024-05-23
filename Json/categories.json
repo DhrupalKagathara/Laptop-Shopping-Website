@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "UltraBook Laptops",
+    "created_on": "11 March 2024"
+  },
+  {
+    "id": 2,
+    "name": "Business laptops",
+    "created_on": "4 March 2024"
+  },
+  {
+    "id": 3,
+    "name": "Gaming laptops",
+    "created_on": "4 March 2024"
+  }
+]

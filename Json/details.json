@@ -1,0 +1,2618 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "MacBook Pro",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "2560 x 1600 pixels",
+        "type": "Retina display"
+      },
+      "processor": {
+        "type": "Apple M1 chip",
+        "cores": "8-core CPU with 4 performance cores and 4 efficiency cores",
+        "graphics": "8-core GPU"
+      },
+      "memory": {
+        "type": "Unified memory",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ]
+      },
+      "storage": {
+        "type": "SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB"
+        ],
+        "speed": "Up to 3.0 GB/s sequential read and write speeds"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C) ports",
+          "3.5mm headphone jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p FaceTime HD camera"
+      },
+      "audio": {
+        "type": "Stereo speakers with wide stereo sound",
+        "features": [
+          "High-fidelity six-speaker system",
+          "Wide stereo sound",
+          "Support for Dolby Atmos playback"
+        ]
+      },
+      "battery": {
+        "type": "Built-in lithium-polymer battery",
+        "capacity": "Up to 17 hours of wireless web browsing",
+        "charging": "61W USB-C power adapter"
+      },
+      "dimensions": {
+        "height": "0.61 inches",
+        "width": "11.97 inches",
+        "depth": "8.36 inches"
+      },
+      "weight": "1.4 kg"
+    },
+    "features": [
+      "Touch Bar and Touch ID",
+      "Force Touch trackpad",
+      "Backlit Magic Keyboard",
+      "macOS operating system"
+    ],
+    "price": {
+      "starting_from": "$1299"
+    },
+    "image": [
+      "js/images/Apple MacBook Pro/1.jpg",
+      "js/images/Apple MacBook Pro/2.jpg",
+      "js/images/Apple MacBook Pro/3.jpg",
+      "js/images/Apple MacBook Pro/4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Apple",
+    "model": "MacBook Air",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "2560 x 1600 pixels",
+        "type": "Retina display"
+      },
+      "processor": {
+        "type": "Apple M1 chip",
+        "cores": "8-core CPU with 4 performance cores and 4 efficiency cores",
+        "graphics": "8-core GPU"
+      },
+      "memory": {
+        "type": "Unified memory",
+        "options": [
+          "8GB",
+          "16GB"
+        ]
+      },
+      "storage": {
+        "type": "SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Up to 3.0 GB/s sequential read and write speeds"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C) ports",
+          "3.5mm headphone jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p FaceTime HD camera"
+      },
+      "audio": {
+        "type": "Stereo speakers with wide stereo sound",
+        "features": [
+          "Three-microphone array",
+          "Support for Dolby Atmos playback"
+        ]
+      },
+      "battery": {
+        "type": "Built-in lithium-polymer battery",
+        "capacity": "Up to 15 hours of wireless web browsing",
+        "charging": "30W USB-C power adapter"
+      },
+      "dimensions": {
+        "height": "0.63 inches",
+        "width": "11.97 inches",
+        "depth": "8.36 inches"
+      },
+      "weight": "1.29 kg"
+    },
+    "features": [
+      "Touch ID",
+      "Force Touch trackpad",
+      "Backlit Magic Keyboard",
+      "macOS operating system"
+    ],
+    "price": {
+      "starting_from": "$999"
+    },
+    "image": [
+      "js/images/Apple MacBook Air/1.jpg",
+      "js/images/Apple MacBook Air/2.jpg",
+      "js/images/Apple MacBook Air/3.jpg",
+      "js/images/Apple MacBook Air/4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Dell",
+    "model": "XPS 13",
+    "specs": {
+      "display": {
+        "size": "13.4 inches",
+        "resolution": "3840 x 2400 pixels",
+        "type": "InfinityEdge display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.8 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4267 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Up to 3,000 MB/s"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C) with Power Delivery and DisplayPort",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 AX1650",
+          "Bluetooth 5.1"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers with Waves MaxxAudio Pro",
+        "features": [
+          "2W x 2 = 4W total",
+          "Dual microphone array"
+        ]
+      },
+      "battery": {
+        "type": "Integrated 52WHr battery",
+        "life": "Up to 14 hours and 11 minutes of local video playback"
+      },
+      "dimensions": {
+        "height": "0.58 inches",
+        "width": "11.64 inches",
+        "depth": "7.82 inches"
+      },
+      "weight": "1.2 kg"
+    },
+    "features": [
+      "InfinityEdge display",
+      "Fingerprint reader",
+      "Backlit keyboard",
+      "Windows 10 operating system"
+    ],
+    "price": {
+      "starting_from": "$999.99"
+    },
+    "image": [
+      "js/images/Dell XPS 13/1.jpg",
+      "js/images/Dell XPS 13/2.jpg",
+      "js/images/Dell XPS 13/3.jpg",
+      "js/images/Dell XPS 13/4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "HP",
+    "model": "EliteBook x360",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "IPS touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "10th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.9 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "2666 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel UHD Graphics or Intel Iris Plus Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 3 (USB-C)",
+          "USB 3.1 Gen 1",
+          "HDMI 1.4b",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 AX201",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam",
+        "features": [
+          "IR camera for Windows Hello facial recognition"
+        ]
+      },
+      "audio": {
+        "type": "Bang & Olufsen stereo speakers",
+        "features": [
+          "Audio by Bang & Olufsen",
+          "Noise-cancelling dual-array microphones"
+        ]
+      },
+      "battery": {
+        "type": "HP Long Life 4-cell, 60 Wh Li-ion polymer battery",
+        "life": "Up to 24 hours"
+      },
+      "dimensions": {
+        "height": "0.67 inches",
+        "width": "12.07 inches",
+        "depth": "8.58 inches"
+      },
+      "weight": "1.32 kg"
+    },
+    "features": [
+      "360-degree hinge",
+      "Fingerprint reader",
+      "Backlit keyboard",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,199.99"
+    },
+    "image": [
+      "js/images/HP Elitebook x360/1.jpg",
+      "js/images/HP Elitebook x360/2.jpg",
+      "js/images/HP Elitebook x360/3.jpg",
+      "js/images/HP Elitebook x360/4.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Samsung",
+    "model": "Galaxy Book Pro",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or 4K UHD (3840 x 2160 pixels)",
+        "type": "AMOLED touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.8 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4267 MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Up to 3,100 MB/s"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "3.5mm headphone/microphone combo jack",
+          "MicroSD card slot"
+        ],
+        "wireless": [
+          "Wi-Fi 6E (Gig+)",
+          "Bluetooth 5.1"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers with Dolby Atmos",
+        "features": [
+          "Sound by AKG",
+          "Smart Amp"
+        ]
+      },
+      "battery": {
+        "type": "Integrated Li-ion battery",
+        "life": "Up to 20 hours of video playback"
+      },
+      "dimensions": {
+        "height": "0.44 inches",
+        "width": "11.98 inches",
+        "depth": "8.99 inches"
+      },
+      "weight": "1.05 kg"
+    },
+    "features": [
+      "Ultra-thin design",
+      "Fingerprint sensor",
+      "Backlit keyboard",
+      "Windows 10 Home or Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$999.99"
+    },
+    "image": [
+      "js/images/Samsung Galaxy book pro/1.jpg",
+      "js/images/Samsung Galaxy book pro/2.jpg",
+      "js/images/Samsung Galaxy book pro/3.jpg",
+      "js/images/Samsung Galaxy book pro/4.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "brand": "HP",
+    "model": "Spectre x360",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or 4K UHD (3840 x 2160 pixels)",
+        "type": "IPS touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.7 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "3733 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "USB 3.1 Gen 1 Type-A",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 AX201",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "HP Wide Vision 720p HD camera",
+        "features": [
+          "IR camera for Windows Hello facial recognition"
+        ]
+      },
+      "audio": {
+        "type": "Bang & Olufsen quad speakers",
+        "features": [
+          "Audio by Bang & Olufsen",
+          "HP Audio Boost 2.0"
+        ]
+      },
+      "battery": {
+        "type": "4-cell, 60 Wh Li-ion polymer battery",
+        "life": "Up to 22 hours"
+      },
+      "dimensions": {
+        "height": "0.67 inches",
+        "width": "12.08 inches",
+        "depth": "7.66 inches"
+      },
+      "weight": "1.3 kg"
+    },
+    "features": [
+      "360-degree hinge",
+      "Fingerprint reader",
+      "Backlit keyboard",
+      "Windows 10 Home or Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,099.99"
+    },
+    "image": [
+      "js/images/HP Spectre x360/1.jpg",
+      "js/images/HP Spectre x360/2.jpg",
+      "js/images/HP Spectre x360/3.jpg",
+      "js/images/HP Spectre x360/4.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "brand": "Asus",
+    "model": "ZenBook Pro 14 OLED",
+    "specs": {
+      "display": {
+        "size": "14 inches",
+        "resolution": "OLED 4K UHD (3840 x 2160 pixels)",
+        "type": "NanoEdge touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i7 or i5",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.7 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4266 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Up to 3,300 MB/s"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics or NVIDIA GeForce MX450"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "USB 3.2 Gen 1 Type-A",
+          "HDMI 2.0b",
+          "MicroSD card reader",
+          "3.5mm headphone jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "HD IR webcam",
+        "features": [
+          "Windows Hello support"
+        ]
+      },
+      "audio": {
+        "type": "Harman Kardon-certified quad speakers",
+        "features": [
+          "Array microphone with Cortana and Alexa voice-recognition support",
+          "ASUS SonicMaster stereo audio system"
+        ]
+      },
+      "battery": {
+        "type": "67 Wh lithium-polymer battery",
+        "life": "Up to 17 hours"
+      },
+      "dimensions": {
+        "height": "0.67 inches",
+        "width": "12.65 inches",
+        "depth": "8.32 inches"
+      },
+      "weight": "1.29 kg"
+    },
+    "features": [
+      "ScreenPad 2.0",
+      "Fingerprint sensor",
+      "Backlit keyboard",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,399.99"
+    },
+    "image": [
+      "js/images/Asus ZenBook Pro 14 OLED/1.jpg",
+      "js/images/Asus ZenBook Pro 14 OLED/2.jpg",
+      "js/images/Asus ZenBook Pro 14 OLED/3.jpg",
+      "js/images/Asus ZenBook Pro 14 OLED/4.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "specs": {
+      "display": {
+        "size": "14 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or 4K UHD (3840 x 2160 pixels)",
+        "type": "IPS or HDR touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.7 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4266 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "Two USB 3.2 Gen 1 Type-A",
+          "HDMI 2.0",
+          "Ethernet extension connector",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.2"
+        ]
+      },
+      "camera": {
+        "type": "HD webcam",
+        "features": [
+          "Optional IR camera for Windows Hello facial recognition"
+        ]
+      },
+      "audio": {
+        "type": "Dolby Atmos Speaker System",
+        "features": [
+          "Dual far-field microphones",
+          "Dolby Voice"
+        ]
+      },
+      "battery": {
+        "type": "Integrated 57 Wh lithium-polymer battery",
+        "life": "Up to 15 hours"
+      },
+      "dimensions": {
+        "height": "0.59 inches",
+        "width": "12.71 inches",
+        "depth": "8.54 inches"
+      },
+      "weight": "1.13 kg"
+    },
+    "features": [
+      "RapidCharge technology",
+      "Fingerprint reader",
+      "Backlit keyboard",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,331.55"
+    },
+    "image": [
+      "js/images/Lenovo ThinkPad X1 Carbon/1.jpg",
+      "js/images/Lenovo ThinkPad X1 Carbon/2.jpg",
+      "js/images/Lenovo ThinkPad X1 Carbon/3.jpg",
+      "js/images/Lenovo ThinkPad X1 Carbon/4.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Microsoft",
+    "model": "Surface Laptop 4",
+    "specs": {
+      "display": {
+        "size": "13.5 inches or 15 inches",
+        "resolution": "2256 x 1504 pixels (13.5 inches) or 2496 x 1664 pixels (15 inches)",
+        "type": "PixelSense touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7 or AMD Ryzen 5 or 7",
+        "generation": "11th Gen (Intel) or Ryzen 4000 series (AMD)",
+        "cores": "Varies",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "3733 MHz"
+      },
+      "storage": {
+        "type": "Removable SSD",
+        "options": [
+          "128GB",
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics or AMD Radeon Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "USB-A",
+          "USB-C",
+          "Surface Connect",
+          "3.5mm headphone jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD front-facing camera"
+      },
+      "audio": {
+        "type": "Omnisonic speakers with Dolby Atmos",
+        "features": [
+          "Studio mics",
+          "Dolby Voice support"
+        ]
+      },
+      "battery": {
+        "type": "Lithium-ion battery",
+        "life": "Up to 17.5 hours"
+      },
+      "dimensions": {
+        "height": "0.57 inches (13.5 inches model) or 0.58 inches (15 inches model)",
+        "width": "12.1 inches (13.5 inches model) or 13.4 inches (15 inches model)",
+        "depth": "8.8 inches (13.5 inches model) or 9.6 inches (15 inches model)"
+      },
+      "weight": "1.26 kg"
+    },
+    "features": [
+      "Windows Hello face sign-in",
+      "Alcantara or metal finish",
+      "Backlit keyboard",
+      "Windows 10 Home or Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$999.99"
+    },
+    "image": [
+      "js/images/Microsoft Surface Laptop 4/1.jpg",
+      "js/images/Microsoft Surface Laptop 4/2.jpg",
+      "js/images/Microsoft Surface Laptop 4/3.jpg",
+      "js/images/Microsoft Surface Laptop 4/4.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "brand": "LG",
+    "model": "Gram 14",
+    "specs": {
+      "display": {
+        "size": "14 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or WQXGA (2560 x 1600 pixels)",
+        "type": "IPS LCD display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.7 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "8GB",
+          "16GB"
+        ],
+        "speed": "Varies"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "Two USB 3.2 Gen 1 Type-A",
+          "HDMI",
+          "MicroSD card slot",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.1"
+        ]
+      },
+      "camera": {
+        "type": "HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers",
+        "features": [
+          "DTS:X Ultra",
+          "MaxxAudio"
+        ]
+      },
+      "battery": {
+        "type": "72 Wh lithium-ion battery",
+        "life": "Up to 25.5 hours"
+      },
+      "dimensions": {
+        "height": "0.7 inches",
+        "width": "12.3 inches",
+        "depth": "8.3 inches"
+      },
+      "weight": "0.99 kg"
+    },
+    "features": [
+      "MIL-STD-810G durability",
+      "Backlit keyboard",
+      "Windows 10 Home or Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,199.99"
+    },
+    "image": [
+      "js/images/LG Gram 14/1.jpg",
+      "js/images/LG Gram 14/2.jpg",
+      "js/images/LG Gram 14/3.jpg",
+      "js/images/LG Gram 14/4.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "brand": "Lenovo",
+    "model": "LOQ 13th Gen",
+    "specs": {
+      "display": {
+        "size": "Varies",
+        "resolution": "Up to 165Hz",
+        "type": "Varies"
+      },
+      "processor": {
+        "type": "13th Gen Intel Core",
+        "generation": "Varies",
+        "cores": "Varies",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "Up to 32GB DDR RAM",
+        "options": [
+          "Varies"
+        ],
+        "speed": "Varies"
+      },
+      "storage": {
+        "type": "Multiple options available",
+        "options": [
+          "Varies"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce RTX"
+      },
+      "connectivity": {
+        "ports": [
+          "Varies"
+        ],
+        "wireless": [
+          "Wi-Fi 6",
+          "Bluetooth"
+        ]
+      },
+      "camera": {
+        "type": "Varies"
+      },
+      "audio": {
+        "type": "Varies",
+        "features": [
+          "Varies"
+        ]
+      },
+      "battery": {
+        "type": "Varies",
+        "life": "Varies"
+      },
+      "dimensions": {
+        "height": "Varies",
+        "width": "Varies",
+        "depth": "Varies"
+      },
+      "weight": "Varies"
+    },
+    "features": [
+      "Windows 11",
+      "Lenovo Premium Care",
+      "Free 3-month Xbox Game Pass Ultimate subscription"
+    ],
+    "price": {
+      "starting_from": "Varies"
+    },
+    "image": [
+      "js/images/Lenovo LOQ 13th Gen/1.jpg",
+      "js/images/Lenovo LOQ 13th Gen/2.jpg",
+      "js/images/Lenovo LOQ 13th Gen/3.jpg",
+      "js/images/Lenovo LOQ 13th Gen/4.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "brand": "Asus",
+    "model": "ROG Strix Scar 16",
+    "specs": {
+      "display": {
+        "size": "16 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or WQHD (2560 x 1440 pixels)",
+        "type": "IPS or QHD display with fast refresh rate"
+      },
+      "processor": {
+        "type": "Intel Core i7 or i9",
+        "generation": "10th Gen",
+        "cores": "Octa-core",
+        "clock_speed": "Up to 5.3 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "16GB",
+          "32GB",
+          "64GB"
+        ],
+        "speed": "3200 MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Up to 7000 MB/s"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce RTX 30 series",
+        "options": [
+          "RTX 3070",
+          "RTX 3080"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "Three USB 3.2 Gen 1 Type-A",
+          "One USB 3.2 Gen 2 Type-C",
+          "HDMI 2.0b",
+          "RJ45 LAN port",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers with Smart Amp technology",
+        "features": [
+          "Array microphone",
+          "AI noise-canceling technology"
+        ]
+      },
+      "battery": {
+        "type": "Integrated 90 Wh battery",
+        "life": "Up to 8 hours"
+      },
+      "dimensions": {
+        "height": "1.08 inches",
+        "width": "14.17 inches",
+        "depth": "10.83 inches"
+      },
+      "weight": "6.1 pounds (2.77 kg)"
+    },
+    "features": [
+      "Per-key RGB backlit keyboard",
+      "Aura Sync lighting",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$2,199.99"
+    },
+    "image": [
+      "js/images/Asus ROG Strix Scar 16/1.jpg",
+      "js/images/Asus ROG Strix Scar 16/2.jpg",
+      "js/images/Asus ROG Strix Scar 16/3.jpg",
+      "js/images/Asus ROG Strix Scar 16/4.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "brand": "Razer",
+    "model": "Blade 17",
+    "specs": {
+      "display": {
+        "size": "17.3 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or 4K UHD (3840 x 2160 pixels)",
+        "type": "IPS or OLED display with fast refresh rate"
+      },
+      "processor": {
+        "type": "Intel Core i7 or i9",
+        "generation": "10th Gen",
+        "cores": "Octa-core",
+        "clock_speed": "Up to 5.3 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "16GB",
+          "32GB",
+          "64GB"
+        ],
+        "speed": "2933 MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Up to 3500 MB/s"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce RTX 30 series",
+        "options": [
+          "RTX 3060",
+          "RTX 3070",
+          "RTX 3080"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "Three USB 3.2 Gen 2 Type-A",
+          "One USB 3.2 Gen 2 Type-C",
+          "Thunderbolt 3 (USB-C)",
+          "HDMI 2.1",
+          "SD card reader",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6E",
+          "Bluetooth 5.2"
+        ]
+      },
+      "camera": {
+        "type": "HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers with THX Spatial Audio",
+        "features": [
+          "Array microphone",
+          "Dolby Atmos support"
+        ]
+      },
+      "battery": {
+        "type": "Integrated 70 Wh battery",
+        "life": "Up to 6 hours"
+      },
+      "dimensions": {
+        "height": "0.78 inches",
+        "width": "15.55 inches",
+        "depth": "10.24 inches"
+      },
+      "weight": "6.06 pounds (2.75 kg)"
+    },
+    "features": [
+      "Per-key RGB backlit keyboard",
+      "Windows 10 Home or Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$2,299.99"
+    },
+    "image": [
+      "js/images/Razer Blade 17/1.jpg",
+      "js/images/Razer Blade 17/2.jpg",
+      "js/images/Razer Blade 17/3.jpg",
+      "js/images/Razer Blade 17/4.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "brand": "MSI",
+    "model": "Cyborg 15",
+    "specs": {
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "IPS-level display"
+      },
+      "processor": {
+        "type": "Intel Core i7",
+        "generation": "11th Gen",
+        "cores": "Hexa-core",
+        "clock_speed": "Up to 4.6 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "16GB",
+          "32GB"
+        ],
+        "speed": "3200MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce RTX 30 Series"
+      },
+      "connectivity": {
+        "ports": [
+          "Three USB 3.2 Gen 1 Type-A",
+          "One USB 3.2 Gen 2 Type-C",
+          "HDMI",
+          "Mini DisplayPort",
+          "RJ45 LAN port",
+          "3.5mm headphone and microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6E",
+          "Bluetooth 5.2"
+        ]
+      },
+      "camera": {
+        "type": "HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers with Nahimic Audio Enhancer",
+        "features": [
+          "Hi-Res Audio"
+        ]
+      },
+      "battery": {
+        "type": "~ Wh lithium-ion battery",
+        "life": "~ hours"
+      },
+      "dimensions": {
+        "height": "5.74 inches",
+        "width": "18.26 inches",
+        "depth": "18.26 inches"
+      },
+      "weight": "1.98 kg"
+    },
+    "features": [
+      "SteelSeries RGB Backlit Keyboard",
+      "~ operating system",
+      "~ technology support"
+    ],
+    "price": {
+      "~_from": "$780"
+    },
+    "image": [
+      "js/images/MSI Cyborg 15/1.jpg",
+      "js/images/MSI Cyborg 15/2.jpg",
+      "js/images/MSI Cyborg 15/3.jpg",
+      "js/images/MSI Cyborg 15/4.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "brand": "ASUS",
+    "model": "TUF Gaming F15",
+    "specs": {
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "IPS-level display with fast refresh rate"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "10th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.5 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "2933 MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce GTX or RTX",
+        "options": [
+          "GTX 1650",
+          "GTX 1660 Ti",
+          "RTX 3060",
+          "RTX 3070"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "Three USB 3.2 Gen 1 Type-A",
+          "One USB 3.2 Gen 2 Type-C",
+          "HDMI 2.0b",
+          "Ethernet port",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.1"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers",
+        "features": [
+          "DTS:X Ultra",
+          "Two-way AI Noise Cancelation"
+        ]
+      },
+      "battery": {
+        "type": "Integrated 48 Wh battery",
+        "life": "Up to 6 hours"
+      },
+      "dimensions": {
+        "height": "1.02 inches",
+        "width": "14.2 inches",
+        "depth": "10.1 inches"
+      },
+      "weight": "4.4 pounds (2 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "MIL-STD-810H durability",
+      "Windows 10 Home operating system"
+    ],
+    "price": {
+      "starting_from": "$899.99"
+    },
+    "image": [
+      "js/images/ASUS TUF Gaming F15/1.jpg",
+      "js/images/ASUS TUF Gaming F15/2.jpg",
+      "js/images/ASUS TUF Gaming F15/3.jpg",
+      "js/images/ASUS TUF Gaming F15/4.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "brand": "Lenovo",
+    "model": "Ideapad Gaming 3",
+    "specs": {
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "IPS display with fast refresh rate"
+      },
+      "processor": {
+        "type": "AMD Ryzen 5 or 7",
+        "generation": "4th Gen",
+        "cores": "Hexa-core or Octa-core",
+        "clock_speed": "Up to 4.3 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "3200 MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD or HDD",
+        "options": [
+          "256GB SSD",
+          "512GB SSD",
+          "1TB HDD"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce GTX",
+        "options": [
+          "GTX 1650",
+          "GTX 1650 Ti",
+          "GTX 1660 Ti"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "Two USB 3.2 Gen 1 Type-A",
+          "One USB 3.2 Gen 1 Type-C",
+          "HDMI 2.0",
+          "Ethernet port",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers",
+        "features": [
+          "Dolby Audio",
+          "Dual array microphone"
+        ]
+      },
+      "battery": {
+        "type": "Integrated 45 Wh battery",
+        "life": "Up to 9 hours"
+      },
+      "dimensions": {
+        "height": "0.98 inches",
+        "width": "14.13 inches",
+        "depth": "9.83 inches"
+      },
+      "weight": "Starting at 4.85 pounds (2.2 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Windows 10 Home operating system"
+    ],
+    "price": {
+      "starting_from": "$699.99"
+    },
+    "image": [
+      "js/images/Lenovo Ideapad Gaming 3/1.jpg",
+      "js/images/Lenovo Ideapad Gaming 3/2.jpg",
+      "js/images/Lenovo Ideapad Gaming 3/3.jpg",
+      "js/images/Lenovo Ideapad Gaming 3/4.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "brand": "HP",
+    "model": "Pavilion 14",
+    "specs": {
+      "display": {
+        "size": "14 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "IPS display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "10th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.9 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "8GB",
+          "16GB"
+        ],
+        "speed": "2666 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel UHD Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "One USB 3.1 Gen 1 Type-C",
+          "Two USB 3.1 Gen 1 Type-A",
+          "HDMI 1.4b",
+          "Ethernet port",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 5 (802.11ac)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Dual speakers",
+        "features": [
+          "HP Audio Boost",
+          "B&O Play audio"
+        ]
+      },
+      "battery": {
+        "type": "3-cell, 41 Wh Li-ion battery",
+        "life": "Up to 8 hours"
+      },
+      "dimensions": {
+        "height": "0.7 inches",
+        "width": "12.76 inches",
+        "depth": "8.86 inches"
+      },
+      "weight": "Starting at 3.55 pounds (1.61 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Windows 10 Home operating system"
+    ],
+    "price": {
+      "starting_from": "$699.99"
+    },
+    "image": [
+      "js/images/HP Pavilion 14/1.jpg",
+      "js/images/HP Pavilion 14/2.jpg",
+      "js/images/HP Pavilion 14/3.jpg",
+      "js/images/HP Pavilion 14/4.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "brand": "HP",
+    "model": "Victus",
+    "specs": {
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "IPS display"
+      },
+      "processor": {
+        "type": "AMD Ryzen 5 or 7 or Intel Core i5 or i7",
+        "generation": "Varies",
+        "cores": "Varies",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "2666 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD or HDD",
+        "options": [
+          "256GB SSD",
+          "512GB SSD",
+          "1TB HDD",
+          "2TB HDD"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce GTX or RTX",
+        "options": [
+          "GTX 1650",
+          "GTX 1650 Ti",
+          "RTX 3050",
+          "RTX 3050 Ti"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "One USB 3.2 Gen 2 Type-C",
+          "Two USB 3.2 Gen 1 Type-A",
+          "HDMI 2.0",
+          "Ethernet port",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Dual speakers",
+        "features": [
+          "HP Audio Boost",
+          "B&O Play audio"
+        ]
+      },
+      "battery": {
+        "type": "3-cell, 52.5 Wh Li-ion battery",
+        "life": "Up to 7 hours"
+      },
+      "dimensions": {
+        "height": "0.92 inches",
+        "width": "14.18 inches",
+        "depth": "10.31 inches"
+      },
+      "weight": "Starting at 4.48 pounds (2.03 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Windows 10 Home operating system"
+    ],
+    "price": {
+      "starting_from": "$799.99"
+    },
+    "image": [
+      "js/images/HP Victus/1.jpg",
+      "js/images/HP Victus/2.jpg",
+      "js/images/HP Victus/3.jpg",
+      "js/images/HP Victus/4.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "brand": "Acer",
+    "model": "Nitro 5",
+    "specs": {
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "IPS display with fast refresh rate"
+      },
+      "processor": {
+        "type": "AMD Ryzen 5 or 7 or Intel Core i5 or i7",
+        "generation": "Varies",
+        "cores": "Varies",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "Varies"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD or HDD",
+        "options": [
+          "256GB SSD",
+          "512GB SSD",
+          "1TB HDD",
+          "2TB HDD"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce GTX or RTX",
+        "options": [
+          "GTX 1650",
+          "GTX 1650 Ti",
+          "RTX 3050",
+          "RTX 3050 Ti"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "One USB 3.2 Gen 2 Type-C",
+          "Three USB 3.2 Gen 1 Type-A",
+          "HDMI 2.0",
+          "Ethernet port",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Dual speakers",
+        "features": [
+          "DTS:X Ultra"
+        ]
+      },
+      "battery": {
+        "type": "4-cell, 57.5 Wh Li-ion battery",
+        "life": "Up to 8 hours"
+      },
+      "dimensions": {
+        "height": "1.02 inches",
+        "width": "14.3 inches",
+        "depth": "10 inches"
+      },
+      "weight": "Starting at 5.29 pounds (2.4 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Windows 10 Home operating system"
+    ],
+    "price": {
+      "starting_from": "$799.99"
+    },
+    "image": [
+      "js/images/Acer Nitro 5/1.jpg",
+      "js/images/Acer Nitro 5/2.jpg",
+      "js/images/Acer Nitro 5/3.jpg",
+      "js/images/Acer Nitro 5/4.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "brand": "ASUS",
+    "model": "ROG Flow X13",
+    "specs": {
+      "display": {
+        "size": "13.4 inches",
+        "resolution": "4K UHD (3840 x 2400 pixels)",
+        "type": "IPS touchscreen display"
+      },
+      "processor": {
+        "type": "AMD Ryzen 9",
+        "generation": "5000 series",
+        "cores": "Octa-core",
+        "clock_speed": "Up to 4.6 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4266 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated AMD Radeon Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "One Thunderbolt 4 (USB-C)",
+          "Two USB 3.2 Gen 2 Type-C",
+          "One USB 3.2 Gen 2 Type-A",
+          "HDMI 2.0b",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.2"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Quad speakers with Smart AMP technology",
+        "features": [
+          "Array microphone",
+          "Dolby Atmos support"
+        ]
+      },
+      "battery": {
+        "type": "62 Wh lithium-polymer battery",
+        "life": "Up to 10 hours"
+      },
+      "dimensions": {
+        "height": "0.62 inches",
+        "width": "11.77 inches",
+        "depth": "8.74 inches"
+      },
+      "weight": "Starting at 2.87 pounds (1.3 kg)"
+    },
+    "features": [
+      "ROG XG Mobile external GPU support",
+      "Backlit keyboard",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,999.99"
+    },
+    "image": [
+      "js/images/ASUS ROG Flow X13/1.jpg",
+      "js/images/ASUS ROG Flow X13/2.jpg",
+      "js/images/ASUS ROG Flow X13/3.jpg",
+      "js/images/ASUS ROG Flow X13/4.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "brand": "Apple",
+    "model": "MacBook Pro",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "2560 x 1600 pixels",
+        "type": "Retina display"
+      },
+      "processor": {
+        "type": "Apple M1 chip",
+        "cores": "8-core CPU with 4 performance cores and 4 efficiency cores",
+        "graphics": "8-core GPU"
+      },
+      "memory": {
+        "type": "Unified memory",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ]
+      },
+      "storage": {
+        "type": "SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB",
+          "4TB"
+        ],
+        "speed": "Up to 3.0 GB/s sequential read and write speeds"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C) ports",
+          "3.5mm headphone jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p FaceTime HD camera"
+      },
+      "audio": {
+        "type": "Stereo speakers with wide stereo sound",
+        "features": [
+          "High-fidelity six-speaker system",
+          "Wide stereo sound",
+          "Support for Dolby Atmos playback"
+        ]
+      },
+      "battery": {
+        "type": "Built-in lithium-polymer battery",
+        "capacity": "Up to 17 hours of wireless web browsing",
+        "charging": "61W USB-C power adapter"
+      },
+      "dimensions": {
+        "height": "0.61 inches",
+        "width": "11.97 inches",
+        "depth": "8.36 inches"
+      },
+      "weight": "1.4 kg"
+    },
+    "features": [
+      "Touch Bar and Touch ID",
+      "Force Touch trackpad",
+      "Backlit Magic Keyboard",
+      "macOS operating system"
+    ],
+    "price": {
+      "starting_from": "$1299"
+    },"image": [
+      "js/images/Apple MacBook Pro/1.jpg",
+      "js/images/Apple MacBook Pro/2.jpg",
+      "js/images/Apple MacBook Pro/3.jpg",
+      "js/images/Apple MacBook Pro/4.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "brand": "Dell",
+    "model": "Latitude 5540",
+    "specs": {
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "LED-backlit display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "Varies",
+        "cores": "Dual-core or Quad-core",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "DDR3",
+        "options": [
+          "4GB",
+          "8GB",
+          "16GB"
+        ],
+        "speed": "1600 MHz"
+      },
+      "storage": {
+        "type": "SATA HDD or SSD",
+        "options": [
+          "256GB SSD",
+          "512GB SSD",
+          "1TB HDD"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel HD Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two USB 3.0",
+          "One USB 2.0",
+          "HDMI",
+          "VGA",
+          "Ethernet port",
+          "SD card reader",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 802.11ac",
+          "Bluetooth 4.0"
+        ]
+      },
+      "camera": {
+        "type": "HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers",
+        "features": [
+          "High Definition Audio",
+          "Noise-canceling microphone"
+        ]
+      },
+      "battery": {
+        "type": "3-cell or 4-cell lithium-ion battery",
+        "life": "Varies depending on configuration"
+      },
+      "dimensions": {
+        "height": "1.3 inches",
+        "width": "14.8 inches",
+        "depth": "10.1 inches"
+      },
+      "weight": "Starting at 4.8 pounds"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "Price varies depending on configuration"
+    },
+    "image": [
+      "js/images/Dell Latitude 5540/1.jpg",
+      "js/images/Dell Latitude 5540/2.jpg",
+      "js/images/Dell Latitude 5540/3.jpg",
+      "js/images/Dell Latitude 5540/4.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "specs": {
+      "display": {
+        "size": "14 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or 4K UHD (3840 x 2160 pixels)",
+        "type": "IPS display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "10th Gen or 11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.9 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB",
+          "64GB"
+        ],
+        "speed": "4266 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel UHD Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "Two USB 3.2 Gen 1 Type-A",
+          "HDMI 2.0",
+          "Ethernet port",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.2"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Dolby Atmos Speaker System",
+        "features": [
+          "Dual far-field microphones",
+          "Dolby Voice support"
+        ]
+      },
+      "battery": {
+        "type": "Integrated Li-ion battery",
+        "life": "Up to 19.5 hours"
+      },
+      "dimensions": {
+        "height": "0.59 inches",
+        "width": "12.71 inches",
+        "depth": "8.54 inches"
+      },
+      "weight": "Starting at 2.49 pounds (1.13 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Fingerprint reader",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,259.00"
+    },
+    "image": [
+      "js/images/Lenovo ThinkPad X1 Carbon/1.jpg",
+      "js/images/Lenovo ThinkPad X1 Carbon/2.jpg",
+      "js/images/Lenovo ThinkPad X1 Carbon/3.jpg",
+      "js/images/Lenovo ThinkPad X1 Carbon/4.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "brand": "Samsung",
+    "model": "Galaxy Book Pro",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or 4K UHD (3840 x 2160 pixels)",
+        "type": "AMOLED touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.8 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4267 MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Up to 3,100 MB/s"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "3.5mm headphone/microphone combo jack",
+          "MicroSD card slot"
+        ],
+        "wireless": [
+          "Wi-Fi 6E (Gig+)",
+          "Bluetooth 5.1"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers with Dolby Atmos",
+        "features": [
+          "Sound by AKG",
+          "Smart Amp"
+        ]
+      },
+      "battery": {
+        "type": "Integrated Li-ion battery",
+        "life": "Up to 20 hours of video playback"
+      },
+      "dimensions": {
+        "height": "0.44 inches",
+        "width": "11.98 inches",
+        "depth": "8.99 inches"
+      },
+      "weight": "1.05 kg"
+    },
+    "features": [
+      "Ultra-thin design",
+      "Fingerprint sensor",
+      "Backlit keyboard",
+      "Windows 10 Home or Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$999.99"
+    },
+    "image": [
+      "js/images/Samsung Galaxy Book Pro/1.jpg",
+      "js/images/Samsung Galaxy Book Pro/2.jpg",
+      "js/images/Samsung Galaxy Book Pro/3.jpg",
+      "js/images/Samsung Galaxy Book Pro/4.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "brand": "ASUS",
+    "model": "ZenBook Pro 14 Duo OLED",
+    "specs": {
+      "display": {
+        "size": "14 inches",
+        "resolution": "4K UHD (3840 x 2160 pixels)",
+        "type": "OLED touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i7 or i9",
+        "generation": "10th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 5.3 GHz"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "16GB",
+          "32GB"
+        ],
+        "speed": "3200 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Up to 3400 MB/s"
+      },
+      "graphics": {
+        "type": "NVIDIA GeForce GTX or RTX",
+        "options": [
+          "GTX 1650 Ti",
+          "RTX 2060"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "One Thunderbolt 3 (USB-C)",
+          "Two USB 3.2 Gen 1 Type-A",
+          "HDMI 2.1",
+          "Audio combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "HD IR webcam"
+      },
+      "audio": {
+        "type": "Harman Kardon-certified quad speakers",
+        "features": [
+          "Array microphone",
+          "Smart amplifier technology"
+        ]
+      },
+      "battery": {
+        "type": "4-cell lithium-polymer battery",
+        "life": "Up to 10 hours"
+      },
+      "dimensions": {
+        "height": "0.78 inches",
+        "width": "12.75 inches",
+        "depth": "8.78 inches"
+      },
+      "weight": "Starting at 3.5 pounds (1.59 kg)"
+    },
+    "features": [
+      "ASUS ScreenPad Plus secondary touchscreen display",
+      "Backlit keyboard",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,799.99"
+    },
+    "image": [
+      "js/images/ASUS ZenBook Pro 14 Duo OLED/1.jpg",
+      "js/images/ASUS ZenBook Pro 14 Duo OLED/2.jpg",
+      "js/images/ASUS ZenBook Pro 14 Duo OLED/3.jpg",
+      "js/images/ASUS ZenBook Pro 14 Duo OLED/4.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "brand": "Lenovo",
+    "model": "ThinkPad T16 Gen2",
+    "specs": {
+      "display": {
+        "size": "16 inches",
+        "resolution": "Up to 4K/60Hz",
+        "technology": [
+          "IPS (in-plane switching)"
+        ]
+      },
+      "processor": {
+        "type": "Intel/AMD",
+        "generation": "Varies",
+        "cores": "Varies",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "Varies"
+        ],
+        "speed": "~ MHz"
+      },
+      "storage": {
+        "type": "NVMe SSD",
+        "options": [
+          "Varies"
+        ],
+        "speed": "~ Gbps"
+      },
+      "graphics": {
+        "type": [
+          "Integrated Intel/AMD Graphics",
+          "NVIDIA GeForce RTX (optional)"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "USB 3.2 Gen 1",
+          "Thunderbolt 4/USB4 40Gbps",
+          "HDMI 2.1",
+          "Ethernet (RJ-45)",
+          "..."
+        ],
+        "wireless_technology": [
+          "Bluetooth 5.3 (Windows 11 required)",
+          "..."
+        ]
+      },
+      "security": {
+        "features": [
+          "Discrete TPM 2.0",
+          "Physical Locks",
+          "Smart Card Reader",
+          "Fingerprint Reader",
+          "BIOS Security",
+          "..."
+        ]
+      },
+      "manageability": {
+        "system_management": "DASH SERVICE",
+        "warranty": [
+          "1-year courier or carry-in service",
+          "3-year limited onsite service",
+          "..."
+        ]
+      },
+      "environmental": {
+        "sustainability_material": [
+          "50% recycled aluminium",
+          "55% recycled magnesium",
+          "90% PCC recycled plastic",
+          "..."
+        ]
+      },
+      "accessories": {
+        "bundled_accessories": [
+          "Lenovo USB-C to Ethernet Adapter",
+          "None",
+          "..."
+        ]
+      },
+      "certifications": {
+        "green_certifications": [
+          "ENERGY STAR 8.0",
+          "EPEAT Gold Registered",
+          "ErP Lot 6/26",
+          "RoHS compliant",
+          "TCO Certified 9.0",
+          "..."
+        ],
+        "other_certifications": [
+          "Mil-Spec Test MIL-STD-810H military test passed",
+          "Eyesafe Certified 2.0",
+          "..."
+        ]
+      }
+    },
+    "image": [
+      "js/images/Lenovo ThinkPad T16 Gen2/1.jpg",
+      "js/images/Lenovo ThinkPad T16 Gen2/2.jpg",
+      "js/images/Lenovo ThinkPad T16 Gen2/3.jpg",
+      "js/images/Lenovo ThinkPad T16 Gen2/4.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "brand": "HP",
+    "model": "Elite Dragonfly G3",
+    "specs": {
+      "display": {
+        "size": "13.3 inches",
+        "resolution": "Full HD (1920 x 1080 pixels) or 4K UHD (3840 x 2160 pixels)",
+        "type": "IPS display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7",
+        "generation": "11th Gen",
+        "cores": "Quad-core",
+        "clock_speed": "Up to 4.8 GHz"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4266 MHz"
+      },
+      "storage": {
+        "type": "PCIe NVMe SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "Two Thunderbolt 4 (USB-C)",
+          "One USB 3.1 Gen 1 Type-A",
+          "HDMI 2.0",
+          "Nano SIM slot",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6E (802.11ax)",
+          "Bluetooth 5.2"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Bang & Olufsen speakers",
+        "features": [
+          "Array microphone",
+          "AI noise reduction"
+        ]
+      },
+      "battery": {
+        "type": "HP Long Life 4-cell, 56.2 Wh Li-ion battery",
+        "life": "Up to 24.5 hours"
+      },
+      "dimensions": {
+        "height": "0.63 inches",
+        "width": "11.98 inches",
+        "depth": "7.78 inches"
+      },
+      "weight": "Starting at 2.2 pounds (1 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Fingerprint reader",
+      "Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$1,649.00"
+    },
+    "image": [
+      "js/images/HP Elite Dragonfly G3/1.jpg",
+      "js/images/HP Elite Dragonfly G3/2.jpg",
+      "js/images/HP Elite Dragonfly G3/3.jpg",
+      "js/images/HP Elite Dragonfly G3/4.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "brand": "Lenovo",
+    "model": "Yoga Book 9i",
+    "specs": {
+      "display": {
+        "size": "13.3 inch",
+        "resolution": "2.8K (2,800 x 1,800)",
+        "type": "OLED touch"
+      },
+      "processor": {
+        "type": "Intel Core i7-1355U",
+        "generation": "13th",
+        "cores": "Varies",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "RAM",
+        "options": [
+          "16GB"
+        ],
+        "speed": "Varies"
+      },
+      "storage": {
+        "type": "SSD",
+        "options": [
+          "512GB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics"
+      },
+      "connectivity": {
+        "ports": [
+          "3 x Thunderbolt 3 (Type C)"
+        ],
+        "wireless": [
+          "Bluetooth"
+        ]
+      },
+      "camera": {
+        "type": "720p HD camera with IR and ToF sensor"
+      },
+      "audio": {
+        "type": "Dolby Atmos speaker system",
+        "features": [
+          "Varies"
+        ]
+      },
+      "battery": {
+        "type": "60Wh",
+        "life": "Up to 15 hours"
+      },
+      "dimensions": {
+        "height": "Varies",
+        "width": "Varies",
+        "depth": "Varies"
+      },
+      "weight": "Varies"
+    },
+    "features": [
+      "E-ink keyboard and touchpad",
+      "Fingerprint reader and pen support"
+    ],
+    "price": {
+      "starting_from": "$1,999"
+    },
+    "image": [
+      "js/images/Lenovo Yoga Book 9i/1.jpg",
+      "js/images/Lenovo Yoga Book 9i/2.jpg",
+      "js/images/Lenovo Yoga Book 9i/3.jpg",
+      "js/images/Lenovo Yoga Book 9i/4.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "specs": {
+      "display": {
+        "size": "15.6 inches",
+        "resolution": "Full HD (1920 x 1080 pixels)",
+        "type": "LED-backlit display"
+      },
+      "processor": {
+        "type": "Intel Core i3, i5, or i7",
+        "generation": "Varies",
+        "cores": "Dual-core or Quad-core",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "DDR4",
+        "options": [
+          "4GB",
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "2400 MHz"
+      },
+      "storage": {
+        "type": "HDD or SSD",
+        "options": [
+          "256GB SSD",
+          "512GB SSD",
+          "1TB HDD",
+          "2TB HDD"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel UHD Graphics",
+        "options": [
+          "Intel UHD Graphics 620",
+          "Intel Iris Xe Graphics"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "Two USB 3.2 Gen 1 Type-A",
+          "One USB 2.0 Type-A",
+          "HDMI 1.4b",
+          "Ethernet port",
+          "SD card reader",
+          "3.5mm headphone/microphone combo jack"
+        ],
+        "wireless": [
+          "Wi-Fi 802.11ac",
+          "Bluetooth 4.2"
+        ]
+      },
+      "camera": {
+        "type": "720p HD webcam"
+      },
+      "audio": {
+        "type": "Stereo speakers",
+        "features": [
+          "Waves MaxxAudio Pro",
+          "Array microphone"
+        ]
+      },
+      "battery": {
+        "type": "3-cell or 4-cell lithium-ion battery",
+        "life": "Varies depending on configuration"
+      },
+      "dimensions": {
+        "height": "0.78 inches",
+        "width": "14.96 inches",
+        "depth": "10.16 inches"
+      },
+      "weight": "Starting at 4.19 pounds (1.9 kg)"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Windows 10 Home operating system"
+    ],
+    "price": {
+      "starting_from": "Price varies depending on configuration"
+    },
+    "image": [
+      "js/images/Dell Inspiron 15/1.jpg",
+      "js/images/Dell Inspiron 15/2.jpg",
+      "js/images/Dell Inspiron 15/3.jpg",
+      "js/images/Dell Inspiron 15/4.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "brand": "Microsoft",
+    "model": "Surface Laptop 4",
+    "specs": {
+      "display": {
+        "size": "13.5 inches or 15 inches",
+        "resolution": "2256 x 1504 pixels (13.5 inches) or 2496 x 1664 pixels (15 inches)",
+        "type": "PixelSense touchscreen display"
+      },
+      "processor": {
+        "type": "Intel Core i5 or i7 or AMD Ryzen 5 or 7",
+        "generation": "11th Gen (Intel) or 4th Gen (AMD)",
+        "cores": "Quad-core (Intel) or Hexa-core (AMD)",
+        "clock_speed": "Varies"
+      },
+      "memory": {
+        "type": "LPDDR4x",
+        "options": [
+          "8GB",
+          "16GB",
+          "32GB"
+        ],
+        "speed": "4267 MHz"
+      },
+      "storage": {
+        "type": "Removable SSD",
+        "options": [
+          "256GB",
+          "512GB",
+          "1TB",
+          "2TB"
+        ],
+        "speed": "Varies"
+      },
+      "graphics": {
+        "type": "Integrated Intel Iris Xe Graphics or AMD Radeon Graphics",
+        "options": [
+          "Intel Iris Xe Graphics",
+          "AMD Radeon Graphics"
+        ]
+      },
+      "connectivity": {
+        "ports": [
+          "USB-A",
+          "USB-C",
+          "Surface Connect port",
+          "3.5mm headphone jack"
+        ],
+        "wireless": [
+          "Wi-Fi 6 (802.11ax)",
+          "Bluetooth 5.0"
+        ]
+      },
+      "camera": {
+        "type": "720p HD front-facing camera"
+      },
+      "audio": {
+        "type": "Omnisonic Speakers with Dolby Atmos",
+        "features": [
+          "Dual far-field Studio Mics"
+        ]
+      },
+      "battery": {
+        "type": "Lithium-ion battery",
+        "life": "Up to 19 hours (13.5-inch model) or up to 17.5 hours (15-inch model)"
+      },
+      "dimensions": {
+        "height": "0.57 inches (13.5-inch model) or 0.58 inches (15-inch model)",
+        "width": "12.13 inches (13.5-inch model) or 13.4 inches (15-inch model)",
+        "depth": "8.79 inches (13.5-inch model) or 9.69 inches (15-inch model)"
+      },
+      "weight": "Starting at 2.79 pounds (13.5-inch model) or 3.4 pounds (15-inch model)"
+    },
+    "features": [
+      "Alcantara or metal keyboard deck (depending on configuration)",
+      "Windows 10 Home or Windows 10 Pro operating system"
+    ],
+    "price": {
+      "starting_from": "$999.99"
+    },
+    "image": [
+      "js/images/Microsoft Surface Laptop 4/1.jpg",
+      "js/images/Microsoft Surface Laptop 4/2.jpg",
+      "js/images/Microsoft Surface Laptop 4/3.jpg",
+      "js/images/Microsoft Surface Laptop 4/4.jpg"
+    ]
+  }
+]
