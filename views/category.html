@@ -1,0 +1,37 @@
+<div class="card-header" style="width: 90%; margin: 0 auto;">
+    <div class="input-group input-group-sm mb-3">
+        <span class="input-group-text">Filter: </span>
+        <div class="btn-group btn-group-sm" role="group">
+            <input type="radio" class="btn-check" name="filter" id="filter2" value="cname" ng-model="searchType" />
+            <label class="btn btn-outline-primary" for="filter2">Name</label>
+            <input type="radio" class="btn-check" name="filter" id="filter1" value="date" ng-model="searchType" />
+            <label class="btn btn-outline-primary" for="filter1">Date</label>
+        </div>
+        <input type="search" class="form-control" id="filter-text" vaule="" ng-model="searchText"/>
+    </div>
+</div>
+
+
+
+<table class="table" style="width: 90%; margin: 0 auto;">
+    <thead class="table-dark">
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Date</th>
+            <th scope="col"><a href="#!/add-category"><button type="button" class="btn btn-primary">Add
+                        Category</button></a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="list in categories | searchFilter:searchType:searchText">
+            <th scope="row">{{list.id}}</th>
+            <td>{{list.name}}</td>
+            <td>{{list.created_on}}</td>
+            <td>
+                <a href="#!/edit-category"><button type="button" class="btn btn-warning">Edit</button></a>
+                <a href=""><button type="button" class="btn btn-danger">Delete</button></a>
+            </td>
+        </tr>
+    </tbody>
+</table>

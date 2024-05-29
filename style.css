@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slide{
+    size: 100px;
+}
+
+.cards{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+.catagory{
+    width: 500px;
+    margin: 200px auto;
+}

@@ -1,0 +1,29 @@
+<h3 style="margin: 0 681px;">Edit Category</h3>
+
+<br>
+<br>
+
+<form style="width: 50%; margin: 0 auto;" name="AddCategoryForm" novalidate>
+  <div class="row mb-3">
+    <label for="inputEmail3" class="col-sm-2 col-form-label">Name</label>
+    <div class="col-sm-10">
+      <input name="name" ng-model="name" type="text" class="form-control" id="inputEmail3" required>
+      <div ng-show="AddCategoryForm.name.$touched && AddCategoryForm.name.$invalid" style="color:red;">
+        <span ng-show="AddCategoryForm.name.$error.required">Enter Name Of Your Category</span>
+    </div>
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="inputPassword3" class="col-sm-2 col-form-label">Date</label>
+    <div class="col-sm-10">
+      <input name="date" ng-model="date" type="date" class="form-control" id="inputPassword3" required>
+      <div ng-show="AddCategoryForm.date.$touched && AddCategoryForm.date.$invalid" style="color:red;">
+        <span ng-show="AddCategoryForm.date.$error.required">Enter Valid Date</span>
+    </div>
+    </div>
+  </div>
+  <a href="#!/category"><button class="btn btn-sm btn-secondary">Cancel</button></a>
+  <button type="submit" class="btn btn-sm btn-primary" ng-disabled="AddCategoryForm.name.$invalid || AddCategoryForm.date.$invalid">
+    <a href="#!/category" style="text-decoration: none; color: white;">Edit</a>
+  </button>
+</form>

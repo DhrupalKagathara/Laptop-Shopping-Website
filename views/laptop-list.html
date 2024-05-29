@@ -1,0 +1,41 @@
+<a href="#!/add-laptop"><button type="button" class="btn btn-primary">Add Laptop</button></a>
+<br>
+<br>
+<div>
+
+    <div class="card-header" style="width: 95%; margin: 0 auto;">
+        <div class="input-group input-group-sm mb-3">
+            <span class="input-group-text">Filter: </span>
+            <div class="btn-group btn-group-sm" role="group">
+                <input type="radio" class="btn-check" name="filter" id="filter2" value="brand"
+                ng-model="searchType" />
+                <label class="btn btn-outline-primary" for="filter2">Brand</label>
+                <input type="radio" class="btn-check" name="filter" id="filter1" value="lname"
+                ng-model="searchType" />
+                <label class="btn btn-outline-primary" for="filter1">Name</label>
+            </div>
+            <input type="search" class="form-control" id="filter-text" vaule="" ng-model="searchText"/>
+        </div>
+    </div>
+    
+
+    <div class="cards row row-cols-1 row-cols-md-3 g-2">
+        <div class="card" style="width: 18rem;" ng-repeat="list in product | searchFilter:searchType:searchText">
+            <img src="{{list.image[0]}}" class="d-block w-100" alt="..." style="border-radius: 2px; height: 210px;">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <h5>{{list.brand}} {{list.model}}</h5>
+                </li>
+                <li class="list-group-item"><b>Price:-</b>{{list.price.starting_from}}</li>
+                <li class="list-group-item"><b>Display Size:-</b>{{list.specs.display.size}}</li>
+                <li class="list-group-item"><b>Processor Type:-</b>{{list.specs.processor.type}}</li>
+                <li class="list-group-item"><b>Weight:-</b>{{list.specs.weight}}</li>
+                <li class="list-group-item"><b>Features:-</b>{{list.features[0]}}, {{list.features[1]}}, {{list.features[2]}}, {{list.features[3]}}</li>
+                <li class="list-group-item">
+                    <a href="#!/edit-laptop/{{list.id}}"><button type="button" class="btn btn-warning">Edit</button></a>
+                    <a href=""><button type="button" class="btn btn-danger">Delete</button></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

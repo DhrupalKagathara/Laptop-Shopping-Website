@@ -1,0 +1,126 @@
+    <div class="container pt-5 mb-5">
+        <form action="#" name="AddListForm" novalidate>
+            <h3 class="d-flex mb-3">
+                <span class="me-auto">New Product</span>
+                <a href="#!/laptop"><button class="btn btn-sm btn-secondary me-2">Cancel</button></a>
+                <a href="#!/laptop"><button type="submit" class="btn btn-sm btn-success"
+                    ng-disabled="AddListForm.brand.$invalid ||
+                     AddListForm.date.$invalid || 
+                     AddListForm.date.$invalid || 
+                     AddListForm.price.$invalid || 
+                     AddListForm.displaysize.$invalid || 
+                     AddListForm.weight.$invalid || 
+                     AddListForm.processor.$invalid">Add New Product</button></a>
+            </h3>
+            <div class="card">
+                <div class="card-body">
+                    <div class="row mb-2">    
+                        <div class="col-md-6">
+                            <label for="title" class="col-form-label">Brand</label>
+                            <input name="brand" ng-model="brand" type="text" class="form-control" id="title" required/>
+                            <div ng-show="AddListForm.brand.$touched && AddListForm.brand.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.brand.$error.required">Enter Brand Name</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="title" class="col-form-label">Model</label>
+                            <input name="model" ng-model="model" type="text" class="form-control" id="title" required/>
+                            <div ng-show="AddListForm.model.$touched && AddListForm.model.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.model.$error.required">Enter Model Name</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Feature Image 1</label>
+                            <input name="img1" ng-model="img1" class="form-control" type="file" id="fimage" required/>
+                            <div ng-show="AddListForm.img1.$touched && AddListForm.img1.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.img1.$error.required">Enter first Image</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Feature Image 2</label>
+                            <input name="img2" ng-model="img2" class="form-control" type="file" id="fimage" required/>
+                            <div ng-show="AddListForm.img2.$touched && AddListForm.img2.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.img2.$error.required">Enter Second Image</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Feature Image 3</label>
+                            <input name="img3" ng-model="img3" class="form-control" type="file" id="fimage" required/>
+                            <div ng-show="AddListForm.img3.$touched && AddListForm.img3.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.img3.$error.required">Enter Third Image </span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Feature Image 4</label>
+                            <input name="img4" ng-model="img4" class="form-control" type="file" id="fimage" required/>
+                            <div ng-show="AddListForm.img4.$touched && AddListForm.img4.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.img4.$error.required">Enter Fourth Image</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="category" class="form-label">Category</label>
+                            <select class="form-select" id="category">
+                                <option value="1">UltraBook Laptop</option>
+                                <option value="2">Business Laptop</option>
+                                <option value="2">Gaming Laptop</option>
+                            </select>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="pdate" class="form-label">Publish Date</label>
+                            <input name="date" ng-model="date" class="form-control" type="date" id="pdate" required/>
+                            <div ng-show="AddListForm.date.$touched && AddListForm.date.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.date.$error.required">Enter Valid Date</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Price</label>
+                            <input name="price" ng-model="price" class="form-control" type="number" id="fimage" required/>
+                            <div ng-show="AddListForm.price.$touched && AddListForm.price.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.price.$error.required">Enter Valid Price Name</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Display Size</label>
+                            <input name="displaysize" ng-model="displaysize" class="form-control" type="number" id="fimage" required/>
+                            <div ng-show="AddListForm.displaysize.$touched && AddListForm.displaysize.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.displaysize.$error.required">Enter Valid Display Size</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Weight</label>
+                            <input name="weight" ng-model="weight" class="form-control" type="number" id="fimage" required/>
+                            <div ng-show="AddListForm.weight.$touched && AddListForm.weight.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.weight.$error.required">Enter Valid Weight</span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label for="fimage" class="form-label">Processor Type</label>
+                            <input name="processor" ng-model="processor" class="form-control" type="text" id="fimage" required/>
+                            <div ng-show="AddListForm.processor.$touched && AddListForm.name.$invalid" style="color:red;">
+                                <span ng-show="AddListForm.processor.$error.required">Enter Valid Processor Name</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="scontent" class="col-form-label">Features:</label>
+                        <textarea name="scontent" id="scontent" class="form-control" rows="5">
+                        </textarea>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
